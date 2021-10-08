@@ -1,4 +1,4 @@
-# Analytical-Bayesian-Models-To-Quantify-Pest-Eradication-Success
+# Analytical Bayesian Models To Quantify Pest Eradication Success
 An R implementation of models developed in "Analytical Bayesian models to quantify pest eradication success or species 
 absence using zero-sighting records" by B. Barnes, M. Parsa, F. Giannini and D. Ramsey (to appear in Theoretical Population Biology)
 
