@@ -9,3 +9,6 @@ population absence; biosecurity; probability generating functions;
 
 # How to run the models
 Two implementations of models are included for estimating various statistics developed in the paper. The first implementation uses numerical approximation for calculating the derivatives, and the second one uses symbolic algebra. We also developed shiny apps to visually explore the dynamics of the system by changing its building parameters. To run the models see exampleNumerical.R and exampleSymbolic.R.      
+
+Cite the code: [![DOI](https://zenodo.org/badge/414824686.svg)](https://zenodo.org/badge/latestdoi/414824686)
+
